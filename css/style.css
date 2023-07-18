@@ -10,5 +10,10 @@
 .nav-link{
     color: #fff;
     font-weight: bold;
-    
+
+}
+
+/* dimensionar las images del carousel */
+.alto-img{
+    height: 550px !important;
 }
