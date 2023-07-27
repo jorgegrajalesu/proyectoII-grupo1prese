@@ -38,5 +38,10 @@
 #videos .titulo{
     width: 100%;
     text-align: center;
-    
+
+}
+
+body{
+    /* activa o quita las barras de desplazamiento */
+    overflow-x: hidden;
 }
