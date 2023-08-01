@@ -12,6 +12,9 @@
     font-weight: bold;
 
 }
+.nav-link .active{
+    color: #fff !important; 
+}
 
 /* dimensionar las images del carousel */
 .alto-img{
