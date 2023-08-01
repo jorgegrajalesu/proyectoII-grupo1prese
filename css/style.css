@@ -4,7 +4,7 @@
 }
 
 #menu{
-    background-color: #004AAD !important;
+    background-color: #003b88 !important;
 }
 
 .nav-link{
@@ -20,7 +20,7 @@
 
 /* Novedades */
 #novedades{
-    background-color:#2869ff !important;
+    background-color:#004AAD  !important;
 
 
 }
@@ -41,6 +41,10 @@
 
 }
 
+#videos{
+background-color: #004AAD ;
+}
+
 body{
     /* activa o quita las barras de desplazamiento */
     overflow-x: hidden;
@@ -48,11 +52,11 @@ body{
 
 /* footer */
 #page-footer{
-    background-color: var(--encabezado);
+    background-color: #004AAD ;
 }
 
 #page-footer a{
-    color: var(--enlace);
+    color: #fff;
 }
 
 #page-footer .ftcontainer{
@@ -134,7 +138,7 @@ body{
     width: 100%;
     color: #fff;
     text-align: center;
-    background-color: #032247;
+    background-color: #489aff;
 }
 
 
