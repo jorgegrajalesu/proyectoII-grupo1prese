@@ -151,3 +151,9 @@ body{
     margin-top: 115px;
 }
 
+
+/* librosdeaccion */
+#librosdeaccion .titulo{
+    width: 100%;
+    text-align: center;
+}
