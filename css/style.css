@@ -7,6 +7,8 @@
     background-color: #d3f1b0b9 !important;
 }
 
+
+
 .nav-link{
     color: #000000;
     font-weight: bold;
@@ -46,6 +48,7 @@
 
 #videos{
 background-color: #dffdd7;
+margin:0 0 100px 0;
 }
 
 body{
@@ -163,7 +166,7 @@ body{
     width: 100%;
     text-align: center;
 }
-#pagoenlinea{
+#pagoenlinea .titulo{
     width: 100%;
     text-align: center;
     margin-top: 115px;
@@ -171,6 +174,8 @@ body{
 }
 #pagoenlinea{
     background-color: #dffdd7 !important;
+    width: 100%;
+    margin: 0 auto;
 }
 
  #pagoenlinea, h3{
@@ -206,6 +211,28 @@ width: 30pc;
  #inputZip{
     width: 50pc;
  }
+ 
+ #accordionExample{
+    background-color: #dffdd7 !important;
+ }
 
+ #librosdeaccion{
+    background-color:#dffdd7 ;
+ }
 
+#librosdecontabilidad{
+    background-color: #dffdd7;
+}
+
+#librosdeterror{
+    background-color: #dffdd7;
+}
+
+#librosdemusica{
+    background-color: #dffdd7;
+}
+
+#librosdesistemas{
+    background-color: #dffdd7;
+}
 
